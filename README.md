@@ -37,9 +37,7 @@ web server software.
 
 ## Video Explainer
 
-[
-](https://youtu.be/kLR1euegBcs)
----
+[Click here to watch Video Explainer](https://youtu.be/kLR1euegBcs)
 
 ## License
 
